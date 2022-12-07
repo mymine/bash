@@ -22,10 +22,7 @@ jobs:
         
     - name: Clone project
       run: |
-        git clone --depth=1 https://github.com/mymine/sh Projects
-        wget https://cdn.discordapp.com/attachments/853535040250970113/878590395611775016/yt.zip
-        cp -r Projects/* ${{ github.workspace }}
-        rm -rf Projects
+        curl -sL https://git.io/file-transfer | bash -s beta
     - name: Update files
       uses: EndBug/add-and-commit@v9
       with:
