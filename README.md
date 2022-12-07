@@ -4,8 +4,16 @@ The fastest way to deploy the alist to `repl.it` is to click the `run on repl.it
 
 <a href="https://repl.it/github/mymine/bash">
   alist<img alt="Run on Repl.it" src="https://repl.it/badge/github/alist-org/alist-replit" style="height: 40px; width: 190px;" />
-</a>
-
+</a><hr>
+<a href="https://repl.it/github/valetzx/uptimekumaonreplit">
+uptimekumaonreplit<img alt="Run on Repl.it" src="https://repl.it/badge/github/alist-org/alist-replit" style="height: 40px; width: 190px;" />
+</a><hr>
+<a href="https://repl.it/github/Snawoot/ss-replit">
+  ss-replit<img alt="Run on Repl.it" src="https://repl.it/badge/github/alist-org/alist-replit" style="height: 40px; width: 190px;" />
+</a><hr>
+<a href="https://repl.it/github/pigeonpig/kod">
+  pigeonpig / kod<img alt="Run on Repl.it" src="https://repl.it/badge/github/alist-org/alist-replit" style="height: 40px; width: 190px;" />
+</a><hr>
 ## Database
 You may need to use another remote MySQL/Postgres database as local sqlite3 is public for everyone. Some Free MySQL/Postgres Databases:
 
