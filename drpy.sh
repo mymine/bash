@@ -6,7 +6,7 @@ git clone https://gitcode.net/qq_32394351/dr_py
 cp -r dr_py/* ./
 rm -rf dr_py
 # 升级pip包
-pip install --upgrade pip
+#pip install --upgrade pip
 # 安装依赖
 pip install -r requirements.txt
 #配置.replit文件
