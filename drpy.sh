@@ -18,4 +18,4 @@ rm -rf $(pwd)/static/js/grey.js
 rm -rf $(pwd)/static/css/grey.css
 
 # 启动项目
-nohup python app.py 0
+nohup python app.py
